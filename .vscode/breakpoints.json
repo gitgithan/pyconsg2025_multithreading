@@ -1,0 +1,380 @@
+[
+  {
+    "location": "/no_deadlock.py",
+    "line": [
+      {
+        "line": 6,
+        "character": 0
+      },
+      {
+        "line": 6,
+        "character": 0
+      }
+    ],
+    "enabled": true
+  },
+  {
+    "location": "/no_deadlock.py",
+    "line": [
+      {
+        "line": 13,
+        "character": 0
+      },
+      {
+        "line": 13,
+        "character": 0
+      }
+    ],
+    "enabled": true
+  },
+  {
+    "location": "/always_deadlock.py",
+    "line": [
+      {
+        "line": 7,
+        "character": 0
+      },
+      {
+        "line": 7,
+        "character": 0
+      }
+    ],
+    "enabled": true
+  },
+  {
+    "location": "/always_deadlock.py",
+    "line": [
+      {
+        "line": 14,
+        "character": 0
+      },
+      {
+        "line": 14,
+        "character": 0
+      }
+    ],
+    "enabled": true
+  },
+  {
+    "location": "/sometimes_deadlock.py",
+    "line": [
+      {
+        "line": 7,
+        "character": 0
+      },
+      {
+        "line": 7,
+        "character": 0
+      }
+    ],
+    "enabled": true
+  },
+  {
+    "location": "/sometimes_deadlock.py",
+    "line": [
+      {
+        "line": 14,
+        "character": 0
+      },
+      {
+        "line": 14,
+        "character": 0
+      }
+    ],
+    "enabled": true
+  },
+  {
+    "location": "ad.py",
+    "line": [
+      {
+        "line": 24,
+        "character": 0
+      },
+      {
+        "line": 24,
+        "character": 0
+      }
+    ],
+    "enabled": true
+  },
+  {
+    "location": "ad.py",
+    "line": [
+      {
+        "line": 25,
+        "character": 0
+      },
+      {
+        "line": 25,
+        "character": 0
+      }
+    ],
+    "enabled": true
+  },
+  {
+    "location": "ad.py",
+    "line": [
+      {
+        "line": 161,
+        "character": 0
+      },
+      {
+        "line": 161,
+        "character": 0
+      }
+    ],
+    "enabled": true
+  },
+  {
+    "location": "ad.py",
+    "line": [
+      {
+        "line": 166,
+        "character": 0
+      },
+      {
+        "line": 166,
+        "character": 0
+      }
+    ],
+    "enabled": true
+  },
+  {
+    "location": "ad.py",
+    "line": [
+      {
+        "line": 168,
+        "character": 0
+      },
+      {
+        "line": 168,
+        "character": 0
+      }
+    ],
+    "enabled": true
+  },
+  {
+    "location": "/discourage_deadlock.py",
+    "line": [
+      {
+        "line": 7,
+        "character": 0
+      },
+      {
+        "line": 7,
+        "character": 0
+      }
+    ],
+    "enabled": true
+  },
+  {
+    "location": "/discourage_deadlock.py",
+    "line": [
+      {
+        "line": 14,
+        "character": 0
+      },
+      {
+        "line": 14,
+        "character": 0
+      }
+    ],
+    "enabled": true
+  },
+  {
+    "location": "/discourage_deadlock.py",
+    "line": [
+      {
+        "line": 15,
+        "character": 0
+      },
+      {
+        "line": 15,
+        "character": 0
+      }
+    ],
+    "enabled": true
+  },
+  {
+    "location": "ad.py",
+    "line": [
+      {
+        "line": 216,
+        "character": 0
+      },
+      {
+        "line": 216,
+        "character": 0
+      }
+    ],
+    "enabled": true
+  },
+  {
+    "location": "/force_deadlock.py",
+    "line": [
+      {
+        "line": 7,
+        "character": 0
+      },
+      {
+        "line": 7,
+        "character": 0
+      }
+    ],
+    "enabled": true
+  },
+  {
+    "location": "/force_deadlock.py",
+    "line": [
+      {
+        "line": 14,
+        "character": 0
+      },
+      {
+        "line": 14,
+        "character": 0
+      }
+    ],
+    "enabled": true
+  },
+  {
+    "location": "/force_deadlock.py",
+    "line": [
+      {
+        "line": 15,
+        "character": 0
+      },
+      {
+        "line": 15,
+        "character": 0
+      }
+    ],
+    "enabled": true
+  },
+  {
+    "location": "/unswallow_runtimeerror.py",
+    "line": [
+      {
+        "line": 7,
+        "character": 0
+      },
+      {
+        "line": 7,
+        "character": 0
+      }
+    ],
+    "enabled": true
+  },
+  {
+    "location": "/unswallow_runtimeerror.py",
+    "line": [
+      {
+        "line": 14,
+        "character": 0
+      },
+      {
+        "line": 14,
+        "character": 0
+      }
+    ],
+    "enabled": true
+  },
+  {
+    "location": "/unswallow_runtimeerror.py",
+    "line": [
+      {
+        "line": 15,
+        "character": 0
+      },
+      {
+        "line": 15,
+        "character": 0
+      }
+    ],
+    "enabled": true
+  },
+  {
+    "location": "/unswallow_runtimeerror.py",
+    "line": [
+      {
+        "line": 16,
+        "character": 0
+      },
+      {
+        "line": 16,
+        "character": 0
+      }
+    ],
+    "enabled": true
+  },
+  {
+    "location": "/context_manager.py",
+    "line": [
+      {
+        "line": 13,
+        "character": 0
+      },
+      {
+        "line": 13,
+        "character": 0
+      }
+    ],
+    "enabled": true
+  },
+  {
+    "location": "/context_manager.py",
+    "line": [
+      {
+        "line": 12,
+        "character": 0
+      },
+      {
+        "line": 12,
+        "character": 0
+      }
+    ],
+    "enabled": true
+  },
+  {
+    "location": "/context_manager.py",
+    "line": [
+      {
+        "line": 6,
+        "character": 0
+      },
+      {
+        "line": 6,
+        "character": 0
+      }
+    ],
+    "enabled": true
+  },
+  {
+    "location": "e.py",
+    "line": [
+      {
+        "line": 645,
+        "character": 0
+      },
+      {
+        "line": 645,
+        "character": 0
+      }
+    ],
+    "enabled": true
+  },
+  {
+    "location": "e.py",
+    "line": [
+      {
+        "line": 648,
+        "character": 0
+      },
+      {
+        "line": 648,
+        "character": 0
+      }
+    ],
+    "enabled": true
+  }
+]
