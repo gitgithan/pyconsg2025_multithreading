@@ -13,6 +13,6 @@ def wait_on_future():
 
 executor = ThreadPoolExecutor(max_workers=1)
 f = executor.submit(wait_on_future)
-# executor.shutdown(wait=False)
-f.result()
-# print(f.exception()) # cannot schedule new futures after shutdown
+executor.shutdown(wait=False)  # this is added to solve heisenbug
+f.result()  # if only this without executor.shutdown(wait=False), it will block forever, heisenbug!
+# print(f.exception()) # Message in RunTimeError shown "cannot schedule new futures after shutdown"
