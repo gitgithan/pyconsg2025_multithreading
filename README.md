@@ -1,5 +1,6 @@
-# Talk Slides
-In this repo: [pyconsg2025_deadlock.pdf](pyconsg2025_deadlock.pdf)
+# Talk Resources
+- Slides in this repo: [pyconsg2025_deadlock.pdf](pyconsg2025_deadlock.pdf)
+- Video: https://www.youtube.com/watch?v=zuuOoAXKXQs
 
 Links not clickable if viewing through github preview. Download for clickable links
 # Reproducing breakpoints
